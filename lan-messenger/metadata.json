@@ -1,0 +1,5 @@
+{
+  "name": "LAN Messenger",
+  "description": "A real-time LAN messaging application with public/private chat, file sharing, and typing indicators.",
+  "requestFramePermissions": ["notifications"]
+}
